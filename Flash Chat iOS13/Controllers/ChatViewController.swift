@@ -1,12 +1,14 @@
 //
-//  Flash Chat iOS13
+//  Flash Chat
 //
 //  Created by Shaurya Singh
 //
+
 import UIKit
 import FirebaseCore
 import FirebaseAuth
 import FirebaseFirestore
+
 class ChatViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
