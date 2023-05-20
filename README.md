@@ -1,7 +1,7 @@
 //
 //  Flash Chat iOS13
 //
-//  Created by Shaurya Singh
+//  Created by Divyansh Pratap
 //
 
 
